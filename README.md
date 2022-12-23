@@ -8,13 +8,26 @@
 
 
 # 资料查阅来源类目
+- 药物根据作用于人体的结果，可分为寒、热、温、凉四种药性。
+- 寒凉性药一般有清热泻火解毒类作用，用来治疗热性病症。温热性药则一般有温中助阳、散寒作用，用来治疗寒性病症。另外还有一种性质平和，作用缓慢的药物，称为平性。
 
-- 维基 “性味” 资料：`https://zh.wikipedia.org/wiki/%E6%80%A7%E5%91%B3`
-1. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%AF%92  性味:  寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%AF%92 |date=20210711005430 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-2. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E5%AF%92  性味:  微寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E5%AF%92 |date=20210711084631 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-3. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E5%AF%92  性味:  大寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E5%AF%92 |date=20210709183517 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-4. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E7%86%B1  性味:  熱] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E7%86%B1 |date=20210711101602 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-5. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E7%86%B1   性味:  大熱] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E7%86%B1 |date=20210709183101 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-6 *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E6%BA%AB  性味:  溫] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E6%BA%AB |date=20210711191018 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-7. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E6%BA%AB  性味:  微溫] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E6%BA%AB |date=20210711191746 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
-8. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E6%B6%BC  性味:  涼] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E6%B6%BC |date=20210709183731 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
+- 摘选维基 “性味” - "四气"资料：https://zh.wikipedia.org/wiki/%E6%80%A7%E5%91%B3
+
+1. [性味:  寒] :
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=寒] 
+2. [性味:  微寒]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=微寒] 
+3. [性味:  大寒]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=大寒] 
+4. [性味:  熱]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=熱] 
+5. [性味:  大熱]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=大熱] 
+6. [性味:  溫]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=溫] 
+7. [性味:  微溫]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=微溫] 
+8. [性味:  涼]:
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=涼] 
+9. [性味:  平]:
+  *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=平]
