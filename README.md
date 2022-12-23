@@ -29,5 +29,6 @@
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=微溫] 
 8. [性味:  涼]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=涼] 
+
 9. [性味:  平]:
-  *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=平]
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=平]
