@@ -9,7 +9,7 @@
 
 # 资料查阅来源类目
 
-- 维基 “性味” 资料：https://zh.wikipedia.org/wiki/%E6%80%A7%E5%91%B3
+- 维基 “性味” 资料：`https://zh.wikipedia.org/wiki/%E6%80%A7%E5%91%B3`
 1. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%AF%92  性味:  寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%AF%92 |date=20210711005430 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
 2. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E5%AF%92  性味:  微寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%BE%AE%E5%AF%92 |date=20210711084631 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
 3. *[https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E5%AF%92  性味:  大寒] {{Wayback|url=https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=%E5%A4%A7%E5%AF%92 |date=20210709183517 }} 中藥材圖像數據庫  (香港浸會大學中醫藥學院) {{zh}}{{en}}
