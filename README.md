@@ -14,25 +14,35 @@
 - 摘选维基 “性味” - "四气"资料：https://zh.wikipedia.org/wiki/%E6%80%A7%E5%91%B3
 
 
---
+***
+
 +2. [性味:  大熱]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=大熱] 
+
 +1. [性味:  熱]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=熱] 
---
+
+***
+
 
 +0.5. [性味:  溫]:
-  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=溫] 
+  * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=溫]
+
 +0.25. [性味:  微溫]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=微溫] 
 
---
+***
+
 0. [性味:  平]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=平]
---
+***
+
 -0.5. [性味:  涼]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=涼] 
---
+
+***
+
+
 -1. [性味:  微寒]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=微寒]
 
@@ -41,4 +51,6 @@
 
 -2. [性味:  大寒]:
   * [https://sys01.lib.hkbu.edu.hk/cmed/mmid/index.php?sort=name_cht&page=1&fac_tas_cht=大寒]
---
+
+***
+
